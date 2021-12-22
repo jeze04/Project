@@ -58,9 +58,12 @@ body {
   line-height: 1.5em; /*1.5em-2inches*/
   display: inline-flex;
   align-items: center;
-  max-height: auto;
+  /*max-height: auto;*/
   background-size: cover;
   background: url("../image/welcome.jpg") no-repeat center center/cover;
+  width: 100vh;
+  height: 100vh;
+  
 }
 
 
